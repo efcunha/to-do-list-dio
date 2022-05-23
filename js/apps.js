@@ -7,7 +7,7 @@ const setBanco = (banco) => localStorage.setItem ('todoList', JSON.stringify(ban
 
 const criarItem = (tarefa, status, indice) => {
     const item = document.createElement('label');
-    item.classList.add('todo__item');
+    item.classList.add('todo-item');
     item.innerHTML = `
         <input type="checkbox" ${status} data-indice=${indice}>
         <div>${tarefa}</div>
