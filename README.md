@@ -10,10 +10,6 @@ https://github.com/stebsnusch/basecamp-javascript/tree/main/introducao-ao-javasc
 
 # Editor de codigo utilizado
 [Visual Studio Code](https://code.visualstudio.com/)
-
-# Melhorias implementadas
-
-
 ## :seedling: Requisitos Mínimos
 
 Navegador Web
@@ -29,7 +25,8 @@ Navegador Web
 
 # Minha Lista de Tarefas:
 
+![Exemplo de to-do list](assets/img/to-do-list.png)
 
 # Lista de Tarefas do Curso:
 
-![Exemplo de to-do list](assets/exemplo.png)
+![Exemplo de to-do list](assets/img/exemplo.png)
